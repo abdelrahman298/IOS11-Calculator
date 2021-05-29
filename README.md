@@ -3,14 +3,11 @@
 A new Flutter application.
 
 ## Getting Started
+Hello, welcome to my project :D
+my name is abdelrahman , i'm a junior flutter pdeveloper.
+i have created this project with some help from internet , and used what i have learnt in Angila flutter course
+and this is my project image
 
-This project is a starting point for a Flutter application.
+![Screenshot_1622264337](https://user-images.githubusercontent.com/54869237/120058530-c4b1d100-c04b-11eb-854c-e6211943bde7.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## wish this help you <3 
